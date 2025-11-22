@@ -1,0 +1,212 @@
+[
+  {
+    "nome": "FIFA International Soccer (FIFA 94)",
+    "data_criacao": " 15 de dezembro de 1993",
+    "descricao": "O jogo que deu início à franquia. Famoso por sua visão isométrica e jogabilidade rápida, mas focada em seleções nacionais. Embora lançado em 1993, é frequentemente referido como FIFA 94. Estabeleceu a base para todos os jogos de futebol da EA Sports.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_International_Soccer",
+    "capa": "capas/fifa94.jpg"
+  },
+  {
+    "nome": "FIFA 98: Road to World Cup",
+    "data_criacao": " 17 de junho de 1997",
+    "descricao": "Considerado um dos maiores saltos da série, foi o primeiro a apresentar todos os times nacionais membros da FIFA. Utilizava o motor 'Virtual Stadium' para gráficos 3D detalhados e incluía a trilha sonora licenciada com a música 'Song 2' do Blur.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA:_Road_to_World_Cup_98",
+    "capa": "capas/fifa98.jpg"
+  },
+  {
+    "nome": "FIFA 99",
+    "data_criacao": " 16 de junho de 1998",
+    "descricao": "Primeiro FIFA a incluir a licença oficial da Liga dos Campeões da UEFA. O jogo apresentou gráficos mais detalhados e uma jogabilidade mais rápida e arcade, focando em dribles acrobáticos e finalizações espetaculares.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_99",
+    "capa": "capas/fifa99.jpg"
+  },
+  {
+    "nome": "FIFA 2000",
+    "data_criacao": " 26 de outubro de 1999",
+    "descricao": "Grande ênfase no modo de gestão de equipe e na customização de clubes, permitindo criar jogadores e montar ligas personalizadas. Marcou a transição da série para a próxima década com gráficos aprimorados e maior profundidade tática.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_2000",
+    "capa": "capas/fifa00.jpg"
+  },
+  {
+    "nome": "FIFA 2001",
+    "data_criacao": " 8 de novembro de 2000",
+    "descricao": "Este título introduziu uma jogabilidade mais rápida e focada em gráficos 3D aprimorados, sendo um dos primeiros jogos da série a aproveitar melhor o hardware da PlayStation 2. O medidor de potência para chutes e passes tornou-se um recurso fundamental.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_2001",
+    "capa": "capas/fifa01.jpg"
+  },
+  {
+    "nome": "FIFA 2002",
+    "data_criacao": " 1 de novembro de 2001",
+    "descricao": "Mudança no sistema de passes, que se tornou mais contextual e automático, removendo o medidor de potência para passes simples. Foco na Copa do Mundo de 2002, embora o jogo tenha sido lançado antes do evento.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_Football_2002",
+    "capa": "capas/fifa02.jpg"
+  },
+  {
+    "nome": "FIFA 2003",
+    "data_criacao": " 25 de outubro de 2002",
+    "descricao": "Uma grande reformulação visual, focada em animações mais detalhadas dos jogadores e nos estádios. A jogabilidade foi ajustada para ser mais fluida e menos arcade, buscando maior realismo nos chutes e passes.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_Football_2003",
+    "capa": "capas/fifa03.jpg"
+  },
+  {
+    "nome": "FIFA 2004",
+    "data_criacao": " 18 de outubro de 2003",
+    "descricao": "Estreia do Modo Carreira, permitindo aos jogadores gerenciar um clube por múltiplas temporadas, cuidando de finanças e transferências. O recurso 'Off the Ball' possibilitava controlar um jogador sem a posse da bola.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_Football_2004",
+    "capa": "capas/fifa04.jpg"
+  },
+  {
+    "nome": "FIFA 05",
+    "data_criacao": " 8 de outubro de 2004",
+    "descricao": "Introduziu o 'First Touch Control', que permitia aos jogadores executar dribles instantâneos ao receber a bola, dando maior importância à habilidade de domínio. Também focou na customização e longevidade do Manager Mode.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_05",
+    "capa": "capas/fifa05.jpg"
+  },
+  {
+    "nome": "FIFA 06",
+    "data_criacao": " 4 de outubro de 2005",
+    "descricao": "Após críticas às edições anteriores, a EA introduziu um novo motor gráfico e de jogabilidade, melhorando o controle de bola e a fluidez das animações. Foi considerado um retorno à boa forma da franquia.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_06",
+    "capa": "capas/fifa06.jpg"
+  },
+  {
+    "nome": "FIFA 07",
+    "data_criacao": " 29 de setembro de 2006",
+    "descricao": "Reformulou o Manager Mode (Modo Carreira), introduzindo uma economia e moral do time mais complexas. Adicionou a capacidade de jogar online usando os lobbies da EA e aprimorou a fidelidade gráfica.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_07",
+    "capa": "capas/fifa07.jpg"
+  },
+  {
+    "nome": "FIFA 08",
+    "data_criacao": " 28 de setembro de 2007",
+    "descricao": "Estreia da funcionalidade 'Be a Pro', que permitia aos jogadores controlar um único atleta durante a partida. O modo de habilidade (Skill Moves) também foi revisado, facilitando os dribles avançados.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_08",
+    "capa": "capas/fifa08.jpg"
+  },
+  {
+    "nome": "FIFA 09",
+    "data_criacao": " 3 de outubro de 2008",
+    "descricao": "Focado em polir a jogabilidade introduzida na versão anterior. O modo 'Be a Pro' foi expandido, permitindo que os jogadores jogassem uma temporada inteira controlando apenas um atleta.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_09",
+    "capa": "capas/fifa09.jpg"
+  },
+  {
+    "nome": "FIFA 10",
+    "data_criacao": " 2 de outubro de 2009",
+    "descricao": "Um marco na melhoria da jogabilidade, com foco no realismo do posicionamento e na introdução do 360° Dribbling, permitindo maior precisão na condução da bola. O Manager Mode foi significativamente aprimorado.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_10",
+    "capa": "capas/fifa10.jpg"
+  },
+  {
+    "nome": "FIFA 11",
+    "data_criacao": " 28 de setembro de 2010",
+    "descricao": "Introduziu o sistema 'Personality+', garantindo que as habilidades dos jogadores fossem refletidas em seu comportamento no campo. O recurso 'Pro Passing' permitiu maior controle sobre a força e precisão dos passes.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_11",
+    "capa": "capas/fifa11.jpg"
+  },
+  {
+    "nome": "FIFA 12",
+    "data_criacao": " 27 de setembro de 2011",
+    "descricao": "Revolucionário pela introdução do 'Tactical Defending' (Defesa Tática), que exigiu mais controle e posicionamento manual dos jogadores, e do 'Player Impact Engine' para colisões e física mais realistas.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_12",
+    "capa": "capas/fifa12.jpg"
+  },
+  {
+    "nome": "FIFA 13",
+    "data_criacao": " 25 de setembro de 2012",
+    "descricao": "Grandes melhorias no sistema de colisão (Player Impact Engine), tornando-o menos propenso a falhas cômicas. Introduziu o recurso 'First Touch Control' para garantir que passes e s não fossem sempre perfeitos, dependendo da habilidade do recebedor.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_13",
+    "capa": "capas/fifa13.jpg"
+  },
+  {
+    "nome": "FIFA 14",
+    "data_criacao": " 24 de setembro de 2013",
+    "descricao": "Introduziu o motor gráfico 'Ignite' nas plataformas de nova geração (PS4/Xbox One), focado em física da bola e animações aprimoradas. O recurso 'Pure Shot' (Chute Preciso) e 'Real Physics' melhoraram a sensação de impacto da bola.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_14",
+    "capa": "capas/fifa14.jpg"
+  },
+  {
+    "nome": "FIFA 15",
+    "data_criacao": " 23 de setembro de 2014",
+    "descricao": "Foco na 'Inteligência Emocional', fazendo com que os jogadores reagissem de forma mais realista a eventos durante a partida (erros, gols). Apresentou gramados que se deterioram, marcando visivelmente a passagem do tempo durante o jogo.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_15",
+    "capa": "capas/fifa15.jpg"
+  },
+  {
+    "nome": "FIFA 16",
+    "data_criacao": " 22 de setembro de 2015",
+    "descricao": "A maior inovação desta edição foi a inclusão de seleções nacionais femininas (12 no total), marcando a primeira vez que jogadoras foram representadas na série. Melhorias no meio-campo e na defesa foram destacadas.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_16",
+    "capa": "capas/fifa16.jpg"
+  },
+  {
+    "nome": "FIFA 17",
+    "data_criacao": " 27 de setembro de 2016",
+    "descricao": "Marco na série com a mudança para o motor gráfico Frostbite (nas versões PC, PS4 e Xbox One), proporcionando visuais mais realistas. Estreou o modo história cinematográfico, 'A Jornada' (The Journey), focado na ascensão do jovem Alex Hunter.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_17",
+    "capa": "capas/fifa17.png"
+  },
+  {
+    "nome": "FIFA 18",
+    "data_criacao": " 29 de setembro de 2017",
+    "descricao": "Este título introduziu a tecnologia 'Real Player Motion', que permitiu um novo nível de animações e fluidez para os jogadores mais famosos. O modo 'A Jornada' continuou, com Alex Hunter explorando o futebol mundial. Cristiano Ronaldo foi a estrela da capa.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_18",
+    "capa": "capas/fifa18.jpg"
+  },
+  {
+    "nome": "FIFA 19",
+    "data_criacao": " 28 de setembro de 2018",
+    "descricao": "Principal inovação foi a inclusão das licenças oficiais da UEFA Champions League, UEFA Europa League e UEFA Super Cup. Concluiu-se a trilogia do modo história 'A Jornada', seguindo a carreira do jogador Alex Hunter.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_19",
+    "capa": "capas/fifa19.jpg"
+  },
+  {
+    "nome": "FIFA 20",
+    "data_criacao": " 27 de setembro de 2019",
+    "descricao": "Marca a volta do futebol de rua à franquia com o modo Volta Football, substituindo o modo história 'A Jornada'. O jogo focou em dar mais autenticidade à física da bola e introduziu melhorias no Ultimate Team com novos objetivos e customizações cosméticas.",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_20",
+    "capa": "capas/fifa20.jpg"
+  },
+  {
+    "nome": "FIFA 21",
+    "data_criacao": " 9 de outubro de 2020",
+    "descricao": "O jogo se concentrou em aprimorar a inteligência artificial de posicionamento e introduziu a mecânica 'Agile Dribbling' para maior controle na condução da bola. O modo Volta Football recebeu novas mecânicas e cenários. Foi o primeiro título a ser lançado para as novas gerações de consoles (PS5/Xbox Series X).",
+    "link": "https://pt.wikipedia.org/wiki/FIFA_21",
+    "capa": "capas/fifa21.jpg"
+  },
+  {
+    "nome": "FIFA 22",
+    "data_criacao": " 1 de outubro de 2021",
+    "descricao": "FIFA 22 introduz a 'Tecnologia HyperMotion', que utiliza dados de captura de movimento coletados de 22 jogadores reais jogando uma partida de futebol completa e de alta intensidade em trajes de captura de movimento. Os dados coletados dos movimentos dos jogadores, desarmes, duelos aéreos e ações com a bola são usados ​​para aprimorar a jogabilidade do FIFA 22. De acordo com um comunicado de imprensa da EA Sports, o FIFA 22 usa esses dados em seu algoritmo de aprendizado de máquina, que utiliza mais de '8,7 milhões de quadros de captura avançada de partidas' para gerar movimentos e animações realistas dos jogadores com e sem a bola em tempo real. O FIFA 22 apresenta um modo carreira para um jogador , onde o usuário pode jogar como jogador ou treinador ao longo de uma carreira de 15 anos. O FIFA 22 introduz uma opção de criação de clube no modo carreira de treinador, permitindo que os jogadores criem um novo clube com uniformes, escudo e estádio personalizados.",
+    "link": "https://en-wikipedia-org.translate.goog/wiki/FIFA_22?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc",
+    "capa": "capas/fifa22.jpg"
+  },
+  {
+    "nome": "FIFA 23",
+    "data_criacao": " 30 de setembro de 2022",
+    "descricao": "FIFA 23 apresenta um certo grau de crossplay. No entanto, o crossplay é limitado a consoles da mesma geração. Por exemplo, jogadores do PlayStation 4 podem jogar com e contra jogadores do Xbox One, mas não do PlayStation 5 ou Xbox Series X/S, e vice-versa. O jogo apresenta o que está sendo chamado de 'HyperMotion2', um sistema de captura de partidas com aprendizado de máquina a partir de jogos de futebol da vida real para criar mais de 6.000 animações no jogo. FIFA 23 apresenta o modo de jogo da Copa do Mundo masculina e o modo de jogo da Copa do Mundo feminina, replicando a Copa do Mundo FIFA de 2022 e a Copa do Mundo Feminina FIFA de 2023. Este é o único título da série a apresentar ambas as Copas do Mundo como modos especiais.",
+    "link": "https://en-wikipedia-org.translate.goog/wiki/FIFA_23?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc",
+    "capa": "capas/fifa23.jpg"
+  },
+  {
+    "nome": "EA FC 24",
+    "data_criacao": " 29 de Setembro de 2023",
+    "descricao": "Após 30 anos de colaboração, a parceria entre a EA Sports e a FIFA foi encerrada, com a franquia agora se chamando EA SPORTS FC. O EA FC 24 apresenta a tecnologia “HyperMotion V”, que utiliza dados volumétricos capturados por câmaras em estádios de mais de 180 jogos de topo. Os dados do “Advanced 11v11 Match Capture” são utilizados para ensinar os algoritmos de aprendizagem automática proprietários do EA Sports FC, resultando em mais de 11.000 animações no jogo, comparado com mais de 6.000 no FIFA 23. O sistema AcceleRATE 2.0 divide o movimento dos jogadores em sete arquétipos diferentes, mais do que o dobro da quantidade apresentada no FIFA 23. Os três tipos de Aceleração base apresentados são “Controlada”, “Explosiva” e “Passada Larga”. Otimizado pela Opta Sports, o EA Sports FC 24 introduz os Estilos de Jogo, que representam as habilidades dos jogadores em campo no jogo e dão aos jogadores capacidades únicas.",
+    "link": "https://pt.wikipedia.org/wiki/EA_Sports_FC_24",
+    "capa": "capas/fc24.jpg"
+  },
+  {
+    "nome": "EA FC 25",
+    "data_criacao": " 27 de Setembro de 2024",
+    "descricao": "Chegada do FC IQ, uma reforma abrangente do sistema táctico, permitindo que os jogadores influenciem as estratégias das equipas de forma mais eficaz. Inclui táticas modernizadas e IA mais inteligente para companheiros de equipe, o que permite uma experiência de jogo mais dinâmica. O jogo apresenta funções distintas para os futebolistas baseado nos seus desempenhos na vida real, o que traz novos desafios e possibilidades ao sistema táctico da equipa com e sem bola. Rush: Partidas 5 contra 5, integrado em todos os modos de jogo. A mesma jogabilidade, mas com algumas diferenças onde se destacam: partidas rápidas com contagem regressiva, campo de menor dimensão, diferente início de partida, mudança das regras habituais do futebol. Além da chegada do Modo Carreira Feminino, com Ícones, com ponto de partida em tempo real e redes socias no Modo Carreira.",
+    "link": "https://pt.wikipedia.org/wiki/EA_Sports_FC_25",
+    "capa": "capas/fc25.jpg"
+  },
+  {
+    "nome": "EA FC 26",
+    "data_criacao": "26 de setembro de 2025",
+    "descricao": "Introduz inovações significativas na jogabilidade, incluindo uma reformulação completa da mecânica de dribles, inteligência artificial aprimorada para o posicionamento dos jogadores e animações de goleiros mais realistas. O jogo também apresenta duas configurações de jogabilidade distintas: Competitivo, adaptado para Ultimate Team e Clubes, com ação mais rápida e IA mais inteligente; e Autêntico, projetado para o Modo Carreira, com comportamentos e táticas de futebol realistas baseados em dados do mundo real.",
+    "link": "https://en-wikipedia-org.translate.goog/wiki/EA_Sports_FC_26?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc",
+    "capa": "capas/fc26.jpg"
+  }
+]
